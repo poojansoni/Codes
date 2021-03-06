@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXmz7GTSbTaRpI3mdUdaiLILSIFfgVpJJMKc1ufPRyVO+io/Ws6XcqCWEiMTL+UY9TWaOKHtoz6N1JoiAgwVZw==",
+  "success": true,
+  "projectFilePath": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day5\\StringModifierscmd\\StringModifierscmd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pooja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pooja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

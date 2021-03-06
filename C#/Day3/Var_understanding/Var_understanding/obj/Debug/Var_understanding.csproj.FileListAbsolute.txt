@@ -1,0 +1,10 @@
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\bin\Debug\Var_understanding.exe.config
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\bin\Debug\Var_understanding.exe
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\bin\Debug\Var_understanding.pdb
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\obj\Debug\Var_understanding.csprojAssemblyReference.cache
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\obj\Debug\Var_understanding.Form1.resources
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\obj\Debug\Var_understanding.Properties.Resources.resources
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\obj\Debug\Var_understanding.csproj.GenerateResource.cache
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\obj\Debug\Var_understanding.csproj.CoreCompileInputs.cache
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\obj\Debug\Var_understanding.exe
+C:\Users\sonip\source\repos\Var_understanding\Var_understanding\obj\Debug\Var_understanding.pdb

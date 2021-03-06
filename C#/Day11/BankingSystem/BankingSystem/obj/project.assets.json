@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Account/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Customer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Account.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Account.dll": {}
+        }
+      },
+      "BankBL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Account": "1.0.0",
+          "Customer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BankBL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BankBL.dll": {}
+        }
+      },
+      "Customer/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Customer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Customer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Account/1.0.0": {
+      "type": "project",
+      "path": "../Account/Account.csproj",
+      "msbuildProject": "../Account/Account.csproj"
+    },
+    "BankBL/1.0.0": {
+      "type": "project",
+      "path": "../BankBL/BankBL.csproj",
+      "msbuildProject": "../BankBL/BankBL.csproj"
+    },
+    "Customer/1.0.0": {
+      "type": "project",
+      "path": "../Customer/Customer.csproj",
+      "msbuildProject": "../Customer/Customer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Account >= 1.0.0",
+      "BankBL >= 1.0.0",
+      "Customer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pooja\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+      "projectName": "BankingSystem",
+      "projectPath": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\BankingSystem\\BankingSystem.csproj",
+      "packagesPath": "C:\\Users\\pooja\\.nuget\\packages\\",
+      "outputPath": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\BankingSystem\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\pooja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\Account\\Account.csproj": {
+              "projectPath": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\Account\\Account.csproj"
+            },
+            "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\BankBL\\BankBL.csproj": {
+              "projectPath": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\BankBL\\BankBL.csproj"
+            },
+            "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\Customer\\Customer.csproj": {
+              "projectPath": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day11\\BankingSystem\\Customer\\Customer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

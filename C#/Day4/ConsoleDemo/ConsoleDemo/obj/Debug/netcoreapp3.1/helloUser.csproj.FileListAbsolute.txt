@@ -1,0 +1,13 @@
+D:\Capgemini\Code\helloUser\helloUser\bin\Debug\netcoreapp3.1\helloUser.exe
+D:\Capgemini\Code\helloUser\helloUser\bin\Debug\netcoreapp3.1\helloUser.deps.json
+D:\Capgemini\Code\helloUser\helloUser\bin\Debug\netcoreapp3.1\helloUser.runtimeconfig.json
+D:\Capgemini\Code\helloUser\helloUser\bin\Debug\netcoreapp3.1\helloUser.runtimeconfig.dev.json
+D:\Capgemini\Code\helloUser\helloUser\bin\Debug\netcoreapp3.1\helloUser.dll
+D:\Capgemini\Code\helloUser\helloUser\bin\Debug\netcoreapp3.1\helloUser.pdb
+D:\Capgemini\Code\helloUser\helloUser\obj\Debug\netcoreapp3.1\helloUser.csprojAssemblyReference.cache
+D:\Capgemini\Code\helloUser\helloUser\obj\Debug\netcoreapp3.1\helloUser.AssemblyInfoInputs.cache
+D:\Capgemini\Code\helloUser\helloUser\obj\Debug\netcoreapp3.1\helloUser.AssemblyInfo.cs
+D:\Capgemini\Code\helloUser\helloUser\obj\Debug\netcoreapp3.1\helloUser.csproj.CoreCompileInputs.cache
+D:\Capgemini\Code\helloUser\helloUser\obj\Debug\netcoreapp3.1\helloUser.dll
+D:\Capgemini\Code\helloUser\helloUser\obj\Debug\netcoreapp3.1\helloUser.pdb
+D:\Capgemini\Code\helloUser\helloUser\obj\Debug\netcoreapp3.1\helloUser.genruntimeconfig.cache

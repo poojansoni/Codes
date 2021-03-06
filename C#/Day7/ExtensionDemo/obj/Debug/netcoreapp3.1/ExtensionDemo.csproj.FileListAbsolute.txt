@@ -1,0 +1,17 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\ExtensionDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\ExtensionDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\ExtensionDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\ExtensionDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\ExtensionDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\ExtensionDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.genruntimeconfig.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\EnumDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\EnumDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\bin\Debug\netcoreapp3.1\EnumDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\ExtensionDemo\obj\Debug\netcoreapp3.1\ExtensionDemo.csproj.CopyComplete

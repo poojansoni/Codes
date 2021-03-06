@@ -1,0 +1,13 @@
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\bin\Debug\StudentMarks.exe.config
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\bin\Debug\StudentMarks.exe
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\bin\Debug\StudentMarks.pdb
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\bin\Debug\GradeCal.dll
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\bin\Debug\GradeCal.pdb
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.csprojAssemblyReference.cache
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.Form1.resources
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.Properties.Resources.resources
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.csproj.GenerateResource.cache
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.csproj.CoreCompileInputs.cache
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.csproj.CopyComplete
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.exe
+C:\Users\sonip\source\repos\Var_understanding\StudentMarks\obj\Debug\StudentMarks.pdb

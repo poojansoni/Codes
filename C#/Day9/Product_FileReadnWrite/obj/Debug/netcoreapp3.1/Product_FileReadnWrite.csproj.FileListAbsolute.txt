@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\bin\Debug\netcoreapp3.1\Product_FileReadnWrite.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\bin\Debug\netcoreapp3.1\Product_FileReadnWrite.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\bin\Debug\netcoreapp3.1\Product_FileReadnWrite.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\bin\Debug\netcoreapp3.1\Product_FileReadnWrite.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\bin\Debug\netcoreapp3.1\Product_FileReadnWrite.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\bin\Debug\netcoreapp3.1\Product_FileReadnWrite.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\obj\Debug\netcoreapp3.1\Product_FileReadnWrite.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\obj\Debug\netcoreapp3.1\Product_FileReadnWrite.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\obj\Debug\netcoreapp3.1\Product_FileReadnWrite.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\obj\Debug\netcoreapp3.1\Product_FileReadnWrite.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\obj\Debug\netcoreapp3.1\Product_FileReadnWrite.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\obj\Debug\netcoreapp3.1\Product_FileReadnWrite.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day9\Product_FileReadnWrite\obj\Debug\netcoreapp3.1\Product_FileReadnWrite.genruntimeconfig.cache

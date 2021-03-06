@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\bin\Debug\netcoreapp3.1\RegexDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\RegexDemo\RegexDemo\obj\Debug\netcoreapp3.1\RegexDemo.genruntimeconfig.cache

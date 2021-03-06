@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\bin\Debug\netcoreapp3.1\AnonymusMethodDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\bin\Debug\netcoreapp3.1\AnonymusMethodDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\bin\Debug\netcoreapp3.1\AnonymusMethodDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\bin\Debug\netcoreapp3.1\AnonymusMethodDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\bin\Debug\netcoreapp3.1\AnonymusMethodDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\bin\Debug\netcoreapp3.1\AnonymusMethodDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\obj\Debug\netcoreapp3.1\AnonymusMethodDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\obj\Debug\netcoreapp3.1\AnonymusMethodDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\obj\Debug\netcoreapp3.1\AnonymusMethodDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\obj\Debug\netcoreapp3.1\AnonymusMethodDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\obj\Debug\netcoreapp3.1\AnonymusMethodDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\obj\Debug\netcoreapp3.1\AnonymusMethodDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\AnonymusMethodDemo\obj\Debug\netcoreapp3.1\AnonymusMethodDemo.genruntimeconfig.cache

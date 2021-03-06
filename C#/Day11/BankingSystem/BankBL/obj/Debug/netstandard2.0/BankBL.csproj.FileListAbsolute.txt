@@ -1,0 +1,14 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\bin\Debug\netstandard2.0\BankBL.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\bin\Debug\netstandard2.0\BankBL.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\bin\Debug\netstandard2.0\BankBL.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\bin\Debug\netstandard2.0\Account.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\bin\Debug\netstandard2.0\Customer.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\bin\Debug\netstandard2.0\Account.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\bin\Debug\netstandard2.0\Customer.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\obj\Debug\netstandard2.0\BankBL.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\obj\Debug\netstandard2.0\BankBL.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\obj\Debug\netstandard2.0\BankBL.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\obj\Debug\netstandard2.0\BankBL.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\obj\Debug\netstandard2.0\BankBL.csproj.CopyComplete
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\obj\Debug\netstandard2.0\BankBL.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\BankBL\obj\Debug\netstandard2.0\BankBL.pdb

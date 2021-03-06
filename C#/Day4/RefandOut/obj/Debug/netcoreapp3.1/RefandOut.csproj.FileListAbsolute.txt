@@ -1,0 +1,12 @@
+D:\Capgemini\Code\helloUser\RefandOut\bin\Debug\netcoreapp3.1\RefandOut.exe
+D:\Capgemini\Code\helloUser\RefandOut\bin\Debug\netcoreapp3.1\RefandOut.deps.json
+D:\Capgemini\Code\helloUser\RefandOut\bin\Debug\netcoreapp3.1\RefandOut.runtimeconfig.json
+D:\Capgemini\Code\helloUser\RefandOut\bin\Debug\netcoreapp3.1\RefandOut.runtimeconfig.dev.json
+D:\Capgemini\Code\helloUser\RefandOut\bin\Debug\netcoreapp3.1\RefandOut.dll
+D:\Capgemini\Code\helloUser\RefandOut\bin\Debug\netcoreapp3.1\RefandOut.pdb
+D:\Capgemini\Code\helloUser\RefandOut\obj\Debug\netcoreapp3.1\RefandOut.AssemblyInfoInputs.cache
+D:\Capgemini\Code\helloUser\RefandOut\obj\Debug\netcoreapp3.1\RefandOut.AssemblyInfo.cs
+D:\Capgemini\Code\helloUser\RefandOut\obj\Debug\netcoreapp3.1\RefandOut.csproj.CoreCompileInputs.cache
+D:\Capgemini\Code\helloUser\RefandOut\obj\Debug\netcoreapp3.1\RefandOut.dll
+D:\Capgemini\Code\helloUser\RefandOut\obj\Debug\netcoreapp3.1\RefandOut.pdb
+D:\Capgemini\Code\helloUser\RefandOut\obj\Debug\netcoreapp3.1\RefandOut.genruntimeconfig.cache

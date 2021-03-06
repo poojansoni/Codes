@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2jDwHec41lOlRPLFP67wNDsy1+N9xHNNA2/7p0QiqS76q+uzzP5rYqLAre8FzaKLTO9qfmx+s+b6BjLjLV9Lw==",
+  "success": true,
+  "projectFilePath": "D:\\Capgemini\\CodeC#\\Poojan Soni\\Day5\\EmployeeOperations\\EmployeeOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pooja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pooja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

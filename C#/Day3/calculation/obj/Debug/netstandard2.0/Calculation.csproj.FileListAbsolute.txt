@@ -1,0 +1,9 @@
+C:\Users\sonip\source\repos\StudentIdentification\calculation\obj\Debug\netstandard2.0\Calculation.csprojAssemblyReference.cache
+C:\Users\sonip\source\repos\StudentIdentification\calculation\obj\Debug\netstandard2.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\sonip\source\repos\StudentIdentification\calculation\obj\Debug\netstandard2.0\Calculation.AssemblyInfo.cs
+C:\Users\sonip\source\repos\StudentIdentification\calculation\obj\Debug\netstandard2.0\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\sonip\source\repos\StudentIdentification\calculation\bin\Debug\netstandard2.0\Calculation.deps.json
+C:\Users\sonip\source\repos\StudentIdentification\calculation\bin\Debug\netstandard2.0\Calculation.dll
+C:\Users\sonip\source\repos\StudentIdentification\calculation\bin\Debug\netstandard2.0\Calculation.pdb
+C:\Users\sonip\source\repos\StudentIdentification\calculation\obj\Debug\netstandard2.0\Calculation.dll
+C:\Users\sonip\source\repos\StudentIdentification\calculation\obj\Debug\netstandard2.0\Calculation.pdb

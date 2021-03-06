@@ -1,0 +1,8 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\bin\Debug\netstandard2.0\EmployeeOperations.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\bin\Debug\netstandard2.0\EmployeeOperations.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\bin\Debug\netstandard2.0\EmployeeOperations.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\obj\Debug\netstandard2.0\EmployeeOperations.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\obj\Debug\netstandard2.0\EmployeeOperations.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\obj\Debug\netstandard2.0\EmployeeOperations.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\obj\Debug\netstandard2.0\EmployeeOperations.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\EmployeeOperations\obj\Debug\netstandard2.0\EmployeeOperations.pdb

@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\bin\Debug\netcoreapp3.1\AssemblyDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\bin\Debug\netcoreapp3.1\AssemblyDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\bin\Debug\netcoreapp3.1\AssemblyDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\bin\Debug\netcoreapp3.1\AssemblyDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\bin\Debug\netcoreapp3.1\AssemblyDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\bin\Debug\netcoreapp3.1\AssemblyDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\obj\Debug\netcoreapp3.1\AssemblyDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\obj\Debug\netcoreapp3.1\AssemblyDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\obj\Debug\netcoreapp3.1\AssemblyDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\obj\Debug\netcoreapp3.1\AssemblyDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\obj\Debug\netcoreapp3.1\AssemblyDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\obj\Debug\netcoreapp3.1\AssemblyDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\AssemblyDemo\obj\Debug\netcoreapp3.1\AssemblyDemo.genruntimeconfig.cache

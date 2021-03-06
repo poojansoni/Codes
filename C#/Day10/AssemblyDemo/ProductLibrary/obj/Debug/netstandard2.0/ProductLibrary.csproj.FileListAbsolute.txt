@@ -1,0 +1,9 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\bin\Debug\netstandard2.0\ProductLibrary.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day10\AssemblyDemo\ProductLibrary\obj\Debug\netstandard2.0\ProductLibrary.pdb

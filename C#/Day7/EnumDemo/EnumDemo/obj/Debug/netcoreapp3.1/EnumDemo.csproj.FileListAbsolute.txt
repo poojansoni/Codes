@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\bin\Debug\netcoreapp3.1\EnumDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day7\EnumDemo\EnumDemo\obj\Debug\netcoreapp3.1\EnumDemo.genruntimeconfig.cache

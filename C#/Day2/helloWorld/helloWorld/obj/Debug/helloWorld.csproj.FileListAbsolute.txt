@@ -1,0 +1,10 @@
+D:\Capgemini\Code\helloWorld\helloWorld\bin\Debug\helloWorld.exe.config
+D:\Capgemini\Code\helloWorld\helloWorld\bin\Debug\helloWorld.exe
+D:\Capgemini\Code\helloWorld\helloWorld\bin\Debug\helloWorld.pdb
+D:\Capgemini\Code\helloWorld\helloWorld\obj\Debug\helloWorld.csprojAssemblyReference.cache
+D:\Capgemini\Code\helloWorld\helloWorld\obj\Debug\helloWorld.Form1.resources
+D:\Capgemini\Code\helloWorld\helloWorld\obj\Debug\helloWorld.Properties.Resources.resources
+D:\Capgemini\Code\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.GenerateResource.cache
+D:\Capgemini\Code\helloWorld\helloWorld\obj\Debug\helloWorld.csproj.CoreCompileInputs.cache
+D:\Capgemini\Code\helloWorld\helloWorld\obj\Debug\helloWorld.exe
+D:\Capgemini\Code\helloWorld\helloWorld\obj\Debug\helloWorld.pdb

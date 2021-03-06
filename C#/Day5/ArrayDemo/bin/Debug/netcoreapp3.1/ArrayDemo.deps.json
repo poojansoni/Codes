@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ArrayDemo/1.0.0": {
+        "dependencies": {
+          "ArrayClass": "1.0.0"
+        },
+        "runtime": {
+          "ArrayDemo.dll": {}
+        }
+      },
+      "ArrayClass/1.0.0": {
+        "runtime": {
+          "ArrayClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArrayClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

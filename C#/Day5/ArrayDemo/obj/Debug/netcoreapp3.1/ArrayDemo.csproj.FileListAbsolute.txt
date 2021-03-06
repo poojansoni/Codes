@@ -1,0 +1,16 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.genruntimeconfig.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayClass.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\bin\Debug\netcoreapp3.1\ArrayClass.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayDemo\obj\Debug\netcoreapp3.1\ArrayDemo.csproj.CopyComplete

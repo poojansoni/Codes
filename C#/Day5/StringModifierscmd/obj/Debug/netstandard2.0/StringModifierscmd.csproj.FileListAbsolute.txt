@@ -1,0 +1,9 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\bin\Debug\netstandard2.0\StringModifierscmd.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\bin\Debug\netstandard2.0\StringModifierscmd.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\bin\Debug\netstandard2.0\StringModifierscmd.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\obj\Debug\netstandard2.0\StringModifierscmd.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\obj\Debug\netstandard2.0\StringModifierscmd.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\obj\Debug\netstandard2.0\StringModifierscmd.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\obj\Debug\netstandard2.0\StringModifierscmd.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\obj\Debug\netstandard2.0\StringModifierscmd.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringModifierscmd\obj\Debug\netstandard2.0\StringModifierscmd.pdb

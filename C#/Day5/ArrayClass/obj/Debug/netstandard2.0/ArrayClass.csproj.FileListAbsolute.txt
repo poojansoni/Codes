@@ -1,0 +1,9 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\bin\Debug\netstandard2.0\ArrayClass.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\bin\Debug\netstandard2.0\ArrayClass.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\bin\Debug\netstandard2.0\ArrayClass.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\obj\Debug\netstandard2.0\ArrayClass.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\obj\Debug\netstandard2.0\ArrayClass.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\obj\Debug\netstandard2.0\ArrayClass.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\obj\Debug\netstandard2.0\ArrayClass.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\obj\Debug\netstandard2.0\ArrayClass.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\ArrayClass\obj\Debug\netstandard2.0\ArrayClass.pdb

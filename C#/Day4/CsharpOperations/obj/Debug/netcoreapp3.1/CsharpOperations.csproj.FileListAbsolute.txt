@@ -1,0 +1,16 @@
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\CsharpOperations.exe
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\CsharpOperations.deps.json
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\CsharpOperations.runtimeconfig.json
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\CsharpOperations.runtimeconfig.dev.json
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\CsharpOperations.dll
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\CsharpOperations.pdb
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.csprojAssemblyReference.cache
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.AssemblyInfoInputs.cache
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.AssemblyInfo.cs
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.csproj.CoreCompileInputs.cache
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.dll
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.pdb
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.genruntimeconfig.cache
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\Operators.dll
+D:\Capgemini\Code\helloUser\CsharpOperations\bin\Debug\netcoreapp3.1\Operators.pdb
+D:\Capgemini\Code\helloUser\CsharpOperations\obj\Debug\netcoreapp3.1\CsharpOperations.csproj.CopyComplete

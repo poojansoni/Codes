@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BankingSystem/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "BankBL": "1.0.0",
+          "Customer": "1.0.0"
+        },
+        "runtime": {
+          "BankingSystem.dll": {}
+        }
+      },
+      "Account/1.0.0": {
+        "dependencies": {
+          "Customer": "1.0.0"
+        },
+        "runtime": {
+          "Account.dll": {}
+        }
+      },
+      "BankBL/1.0.0": {
+        "dependencies": {
+          "Account": "1.0.0",
+          "Customer": "1.0.0"
+        },
+        "runtime": {
+          "BankBL.dll": {}
+        }
+      },
+      "Customer/1.0.0": {
+        "runtime": {
+          "Customer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BankingSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BankBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

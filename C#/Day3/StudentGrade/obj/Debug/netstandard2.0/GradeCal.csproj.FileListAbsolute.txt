@@ -1,0 +1,9 @@
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\bin\Debug\netstandard2.0\GradeCal.deps.json
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\bin\Debug\netstandard2.0\GradeCal.dll
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\bin\Debug\netstandard2.0\GradeCal.pdb
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\obj\Debug\netstandard2.0\GradeCal.csprojAssemblyReference.cache
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\obj\Debug\netstandard2.0\GradeCal.AssemblyInfoInputs.cache
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\obj\Debug\netstandard2.0\GradeCal.AssemblyInfo.cs
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\obj\Debug\netstandard2.0\GradeCal.csproj.CoreCompileInputs.cache
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\obj\Debug\netstandard2.0\GradeCal.dll
+C:\Users\sonip\source\repos\Var_understanding\StudentGrade\obj\Debug\netstandard2.0\GradeCal.pdb

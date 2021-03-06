@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\obj\Debug\netcoreapp3.1\ProductPurchase.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\obj\Debug\netcoreapp3.1\ProductPurchase.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\obj\Debug\netcoreapp3.1\ProductPurchase.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\obj\Debug\netcoreapp3.1\ProductPurchase.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\bin\Debug\netcoreapp3.1\ProductPurchase.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\bin\Debug\netcoreapp3.1\ProductPurchase.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\bin\Debug\netcoreapp3.1\ProductPurchase.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\bin\Debug\netcoreapp3.1\ProductPurchase.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\bin\Debug\netcoreapp3.1\ProductPurchase.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\bin\Debug\netcoreapp3.1\ProductPurchase.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\obj\Debug\netcoreapp3.1\ProductPurchase.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\obj\Debug\netcoreapp3.1\ProductPurchase.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day6\ProductPurchase\obj\Debug\netcoreapp3.1\ProductPurchase.genruntimeconfig.cache

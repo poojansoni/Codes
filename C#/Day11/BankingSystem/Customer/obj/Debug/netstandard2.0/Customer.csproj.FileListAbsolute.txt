@@ -1,0 +1,9 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\bin\Debug\netstandard2.0\Customer.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\bin\Debug\netstandard2.0\Customer.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\bin\Debug\netstandard2.0\Customer.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\obj\Debug\netstandard2.0\Customer.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\obj\Debug\netstandard2.0\Customer.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\obj\Debug\netstandard2.0\Customer.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\obj\Debug\netstandard2.0\Customer.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\obj\Debug\netstandard2.0\Customer.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day11\BankingSystem\Customer\obj\Debug\netstandard2.0\Customer.pdb

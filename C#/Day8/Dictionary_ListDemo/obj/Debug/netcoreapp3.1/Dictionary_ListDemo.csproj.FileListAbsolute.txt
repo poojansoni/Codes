@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\bin\Debug\netcoreapp3.1\Dictionary_ListDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\bin\Debug\netcoreapp3.1\Dictionary_ListDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\bin\Debug\netcoreapp3.1\Dictionary_ListDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\bin\Debug\netcoreapp3.1\Dictionary_ListDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\bin\Debug\netcoreapp3.1\Dictionary_ListDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\bin\Debug\netcoreapp3.1\Dictionary_ListDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\obj\Debug\netcoreapp3.1\Dictionary_ListDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\obj\Debug\netcoreapp3.1\Dictionary_ListDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\obj\Debug\netcoreapp3.1\Dictionary_ListDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\obj\Debug\netcoreapp3.1\Dictionary_ListDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\obj\Debug\netcoreapp3.1\Dictionary_ListDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\obj\Debug\netcoreapp3.1\Dictionary_ListDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day8\Dictionary_ListDemo\obj\Debug\netcoreapp3.1\Dictionary_ListDemo.genruntimeconfig.cache

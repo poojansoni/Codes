@@ -1,0 +1,9 @@
+D:\Capgemini\Code\helloUser\Operators\bin\Debug\netstandard2.0\Operators.deps.json
+D:\Capgemini\Code\helloUser\Operators\bin\Debug\netstandard2.0\Operators.dll
+D:\Capgemini\Code\helloUser\Operators\bin\Debug\netstandard2.0\Operators.pdb
+D:\Capgemini\Code\helloUser\Operators\obj\Debug\netstandard2.0\Operators.csprojAssemblyReference.cache
+D:\Capgemini\Code\helloUser\Operators\obj\Debug\netstandard2.0\Operators.AssemblyInfoInputs.cache
+D:\Capgemini\Code\helloUser\Operators\obj\Debug\netstandard2.0\Operators.AssemblyInfo.cs
+D:\Capgemini\Code\helloUser\Operators\obj\Debug\netstandard2.0\Operators.csproj.CoreCompileInputs.cache
+D:\Capgemini\Code\helloUser\Operators\obj\Debug\netstandard2.0\Operators.dll
+D:\Capgemini\Code\helloUser\Operators\obj\Debug\netstandard2.0\Operators.pdb

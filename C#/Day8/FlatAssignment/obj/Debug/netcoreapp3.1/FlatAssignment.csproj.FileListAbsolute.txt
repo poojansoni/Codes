@@ -1,0 +1,13 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\bin\Debug\netcoreapp3.1\FlatAssignment.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\bin\Debug\netcoreapp3.1\FlatAssignment.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\bin\Debug\netcoreapp3.1\FlatAssignment.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\bin\Debug\netcoreapp3.1\FlatAssignment.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\bin\Debug\netcoreapp3.1\FlatAssignment.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\bin\Debug\netcoreapp3.1\FlatAssignment.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\obj\Debug\netcoreapp3.1\FlatAssignment.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\obj\Debug\netcoreapp3.1\FlatAssignment.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\obj\Debug\netcoreapp3.1\FlatAssignment.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\obj\Debug\netcoreapp3.1\FlatAssignment.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\obj\Debug\netcoreapp3.1\FlatAssignment.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\obj\Debug\netcoreapp3.1\FlatAssignment.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day8\FlatAssignment\obj\Debug\netcoreapp3.1\FlatAssignment.genruntimeconfig.cache

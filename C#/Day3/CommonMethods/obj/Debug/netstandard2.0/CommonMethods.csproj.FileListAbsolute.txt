@@ -1,0 +1,17 @@
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\bin\Debug\netstandard2.0\CommonMethods.deps.json
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\bin\Debug\netstandard2.0\CommonMethods.dll
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\bin\Debug\netstandard2.0\CommonMethods.pdb
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.AssemblyInfoInputs.cache
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.AssemblyInfo.cs
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.csproj.CoreCompileInputs.cache
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.dll
+C:\Users\sonip\source\repos\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.pdb
+D:\Capgemini\Code\StudentIdentification\CommonMethods\bin\Debug\netstandard2.0\CommonMethods.deps.json
+D:\Capgemini\Code\StudentIdentification\CommonMethods\bin\Debug\netstandard2.0\CommonMethods.dll
+D:\Capgemini\Code\StudentIdentification\CommonMethods\bin\Debug\netstandard2.0\CommonMethods.pdb
+D:\Capgemini\Code\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.csprojAssemblyReference.cache
+D:\Capgemini\Code\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.AssemblyInfoInputs.cache
+D:\Capgemini\Code\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.AssemblyInfo.cs
+D:\Capgemini\Code\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.csproj.CoreCompileInputs.cache
+D:\Capgemini\Code\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.dll
+D:\Capgemini\Code\StudentIdentification\CommonMethods\obj\Debug\netstandard2.0\CommonMethods.pdb

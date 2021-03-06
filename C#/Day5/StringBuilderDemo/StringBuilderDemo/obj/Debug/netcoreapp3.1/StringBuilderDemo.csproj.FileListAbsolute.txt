@@ -1,0 +1,16 @@
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.exe
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.deps.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.runtimeconfig.dev.json
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csprojAssemblyReference.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfoInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.AssemblyInfo.cs
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.CoreCompileInputs.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.genruntimeconfig.cache
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringModifierscmd.dll
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\bin\Debug\netcoreapp3.1\StringModifierscmd.pdb
+D:\Capgemini\CodeC#\Poojan Soni\Day5\StringBuilderDemo\StringBuilderDemo\obj\Debug\netcoreapp3.1\StringBuilderDemo.csproj.CopyComplete

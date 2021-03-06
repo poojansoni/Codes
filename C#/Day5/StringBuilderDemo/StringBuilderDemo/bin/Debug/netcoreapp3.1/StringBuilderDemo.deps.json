@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StringBuilderDemo/1.0.0": {
+        "dependencies": {
+          "StringModifierscmd": "1.0.0"
+        },
+        "runtime": {
+          "StringBuilderDemo.dll": {}
+        }
+      },
+      "StringModifierscmd/1.0.0": {
+        "runtime": {
+          "StringModifierscmd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringBuilderDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringModifierscmd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
