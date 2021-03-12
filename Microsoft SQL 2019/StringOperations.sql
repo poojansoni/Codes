@@ -123,6 +123,7 @@ insert into Subject values(8,'Computer Graphics')
 select * from Subject
 
 insert into Student values(1,'Alex',1,2,3,4,5)
+insert into Student values(6,'Alex',1,2,3,4,5)
 insert into Student values(2,'Cherry',2,3,8,5,6)
 insert into Student values(3,'Alice',3,7,5,6,4)
 insert into Student values(4,'Samantha',3,5,7,8,1)
@@ -183,6 +184,15 @@ join Subject on sub_id = s_id1 or sub_id = s_id2 or sub_id = s_id3 or sub_id = s
 join marks as m on m.sb_id= sub_id and m.stud_id = student_id
 group by student_name
 
+select student_name,sub_name from Student
+join Subject on sub_id = s_id1 or sub_id = s_id2 or sub_id = s_id3 or sub_id = s_id4 or sub_id = s_id5
+join marks as m on m.sb_id= sub_id and m.stud_id = student_id
+group by student_name, sub_name
+
+select student_name,sub_name from Student
+join Subject on sub_id = s_id1 or sub_id = s_id2 or sub_id = s_id3 or sub_id = s_id4 or sub_id = s_id5
+join marks as m on m.sb_id= sub_id and m.stud_id = student_id
+group by  sub_name,student_name
 
 --student with total marks/avg with ordered name and score
 select student_name, sum(m.marks)as Total_marks, avg(m.marks)as Avg_marks from Student
@@ -202,3 +212,127 @@ group by
 		sub_name
 	)
 order by Total_marks desc,sub_name,student_name 
+
+
+
+
+
+
+--Grouping Sets
+
+CREATE TABLE tbl_Employee2
+( 
+	id int primary key,
+    Employee_Name varchar(25), 
+    Region varchar(50), 
+    Department varchar(40), 
+    sal int 
+);
+ 
+INSERT into tbl_Employee2(id, 
+	Employee_Name, 
+    Region, 
+    Department, 
+    sal 
+) 
+VALUES 
+	(1,'Shujaat', 'North America', 'Information Technology', 9999), 
+	(2,'Andrew', 'Asia Pacific', 'Information Technology',  5555), 
+	(3,'Maria', 'North America', 'Human Resources', 4444), 
+	(4,'Stephen', 'Middle East & Africa', 'Information Technology', 8888), 
+	(5,'Stephen', 'Middle East & Africa', 'Human Resources', 8888);
+	 
+--1st
+SELECT Region, avg(sal) Average_Salary 
+from tbl_Employee 
+Group BY Region;
+
+--2nd 
+SELECT Region,Department, avg(sal) Average_Salary 
+from tbl_Employee 
+Group BY Region,Department
+Order by Region
+
+ SELECT Region,Department, avg(sal) Average_Salary 
+from tbl_Employee 
+Group BY Department,Region;
+--3rd
+SELECT Department, avg(sal) Average_Salary 
+from tbl_Employee 
+Group BY Department
+
+--Grouping all 
+SELECT Region, Department, avg(sal) Average_Salary 
+from tbl_Employee 
+Group BY 
+      GROUPING SETS 
+      ( 
+			(Region, Department), 
+            (Region), 
+            (Department)                        
+      )
+
+
+
+
+
+
+
+CREATE TABLE tbl_Employee1
+( 
+    Employee_Name varchar(25), 
+          Region varchar(50), 
+          Department varchar(40), 
+          sal int 
+)
+ 
+INSERT into tbl_Employee1( 
+                              Employee_Name, 
+                              Region, 
+                              Department, 
+                              sal  
+                        ) 
+ 
+VALUES 
+('Shujaat', 'North America', 'Information Technology', 9999), 
+('Andrew', 'Asia Pacific', 'Information Technology',  5555), 
+('Maria', 'North America', 'Human Resources', 4444), 
+('Stephen', 'Middle East & Africa', 'Information Technology', 8888), 
+('Stephen', 'Middle East & Africa', 'Human Resources', 8888)
+
+--Combine without duplicate 
+select Employee_Name,Employee_EmailID 
+from Employee 
+union 
+select Employee_Name,Department 
+from tbl_Employee1 
+
+--Combine with duplicate 
+select Employee_Name as EName 
+from Employee 
+union all select Employee_Name  
+from tbl_Employee1 
+
+--Common 
+select Employee_Name 
+from Employee 
+intersect 
+select Employee_Name 
+from tbl_Employee1 
+
+--Not Common 
+select Employee_Name 
+from Employee 
+except 
+select Employee_Name 
+from tbl_Employee1 
+order by Employee_Name
+
+SELECT Region,Department , avg(sal)
+from tbl_Employee2 
+Group BY Region,Department
+
+
+ SELECT Region,Department
+from tbl_Employee2 
+Group BY Department,Region;
