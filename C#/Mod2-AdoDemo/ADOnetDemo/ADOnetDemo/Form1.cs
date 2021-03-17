@@ -285,7 +285,79 @@ namespace ADOnetDemo
                 }
             }
         }
+
+        private DataTable CreateDataTable()
+
+        {
+
+            DataTable empDataTable = new DataTable("Employee");
+            DataColumn empIddataColumn = new DataColumn();
+
+            empIddataColumn.DataType = typeof(int);
+
+            empIddataColumn.ColumnName = "EmpId";
+
+            empIddataColumn.AllowDBNull = false;
+
+            empIddataColumn.Unique = true;
+
+            empDataTable.Columns.Add(empIddataColumn);
+            
+            
+            DataColumn empNamedataColumn = new DataColumn();
+
+            empNamedataColumn.DataType = typeof(string);
+
+            empNamedataColumn.ColumnName = "EmpName";
+
+            empNamedataColumn.AllowDBNull = false;
+
+            empDataTable.Columns.Add(empNamedataColumn);
+            
+            
+            DataColumn[] pkColum = new DataColumn[1];
+
+            pkColum[0] = empDataTable.Columns["EmpId"];
+
+            empDataTable.PrimaryKey = pkColum;
+            
+            DataRow eDataRow = empDataTable.NewRow();
+
+            eDataRow["EmpId"] = 101;
+
+            eDataRow["EmpName"] = "Adwait";
+
+            empDataTable.Rows.Add(eDataRow);
+            
+            DataRow erow = empDataTable.NewRow();
+
+            erow["EmpId"] = 102;
+
+            erow["EmpName"] = "Yash";
+
+            empDataTable.Rows.Add(erow);
+            
+            DataSet dataSet = new DataSet();
+
+            dataSet.Tables.Add(empDataTable);
+            
+            return empDataTable;
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            outputBox.Items.Clear();
+            DataTable data = CreateDataTable();
+            foreach (DataRow row in data.Rows)
+            {
+                outputBox.Items.Add("Employee ID: "+row.ItemArray[0]);
+                outputBox.Items.Add("Employee Name: " + row.ItemArray[1]);
+            }
+
+        }
     }
+
 }
 
 

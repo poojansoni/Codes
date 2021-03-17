@@ -46,10 +46,13 @@ namespace ADOnetDemo
             this.custOrderdet = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.orderId = new System.Windows.Forms.TextBox();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox4.SuspendLayout();
+            this.groupBox5.SuspendLayout();
             this.SuspendLayout();
             // 
             // GetByDataReader
@@ -89,9 +92,9 @@ namespace ADOnetDemo
             this.outputBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outputBox.FormattingEnabled = true;
             this.outputBox.ItemHeight = 20;
-            this.outputBox.Location = new System.Drawing.Point(613, 33);
+            this.outputBox.Location = new System.Drawing.Point(605, 153);
             this.outputBox.Name = "outputBox";
-            this.outputBox.Size = new System.Drawing.Size(360, 404);
+            this.outputBox.Size = new System.Drawing.Size(360, 284);
             this.outputBox.TabIndex = 3;
             // 
             // groupBox2
@@ -222,11 +225,33 @@ namespace ADOnetDemo
             this.orderId.Size = new System.Drawing.Size(123, 23);
             this.orderId.TabIndex = 7;
             // 
+            // groupBox5
+            // 
+            this.groupBox5.Controls.Add(this.button2);
+            this.groupBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.groupBox5.Location = new System.Drawing.Point(625, 33);
+            this.groupBox5.Name = "groupBox5";
+            this.groupBox5.Size = new System.Drawing.Size(302, 100);
+            this.groupBox5.TabIndex = 7;
+            this.groupBox5.TabStop = false;
+            this.groupBox5.Text = "Create Table";
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(86, 27);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(132, 54);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Create Employee table";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1015, 476);
+            this.Controls.Add(this.groupBox5);
             this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
@@ -240,6 +265,7 @@ namespace ADOnetDemo
             this.groupBox3.PerformLayout();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
+            this.groupBox5.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -263,6 +289,8 @@ namespace ADOnetDemo
         private System.Windows.Forms.Button custOrderdet;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox orderId;
+        private System.Windows.Forms.GroupBox groupBox5;
+        private System.Windows.Forms.Button button2;
     }
 }
 
