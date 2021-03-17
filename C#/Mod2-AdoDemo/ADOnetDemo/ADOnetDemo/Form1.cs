@@ -320,23 +320,44 @@ namespace ADOnetDemo
             pkColum[0] = empDataTable.Columns["EmpId"];
 
             empDataTable.PrimaryKey = pkColum;
+
             
-            DataRow eDataRow = empDataTable.NewRow();
+            DataRow erow1 = empDataTable.NewRow();
 
-            eDataRow["EmpId"] = 101;
+            erow1["EmpId"] = 101;
 
-            eDataRow["EmpName"] = "Adwait";
+            erow1["EmpName"] = "Aradhya";
 
-            empDataTable.Rows.Add(eDataRow);
+            empDataTable.Rows.Add(erow1);
+
             
-            DataRow erow = empDataTable.NewRow();
+            DataRow erow2 = empDataTable.NewRow();
 
-            erow["EmpId"] = 102;
+            erow2["EmpId"] = 102;
 
-            erow["EmpName"] = "Yash";
+            erow2["EmpName"] = "Poojan";
 
-            empDataTable.Rows.Add(erow);
-            
+            empDataTable.Rows.Add(erow2);
+
+
+            DataRow erow3 = empDataTable.NewRow();
+
+            erow3["EmpId"] = 103;
+
+            erow3["EmpName"] = "Rishabh";
+
+            empDataTable.Rows.Add(erow3);
+
+
+            DataRow erow4 = empDataTable.NewRow();
+
+            erow4["EmpId"] = 104;
+
+            erow4["EmpName"] = "Sanyam";
+
+            empDataTable.Rows.Add(erow4);
+
+
             DataSet dataSet = new DataSet();
 
             dataSet.Tables.Add(empDataTable);
