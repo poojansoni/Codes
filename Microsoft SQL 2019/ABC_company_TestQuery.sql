@@ -112,8 +112,9 @@ VALUES (                0003,    'Sakshi',    'gg',			'sakshi@gmail.com',		'NAAA
 
 select * from Employee
 
-
-
+INSERT INTO Employee (EmployeeId, FirstName,  LastName,    Phone,       MailId,         District, DepartmentId,   JoiningDate,              LeavingDate,         DesignationId, IsActive,    RoleId, SalaryId)
+VALUES (                0004,    'XXX',    'YY',    8888,'testing@gmail.com',		'Udaipur',	'IT0324', '2012-03-11 15:10:43.593', '2020-03-11 15:10:43.593', 'OO893',         1,      'ABCD',   'A678')
+INSERT INTO Employee_Test (EmployeeId,FirstName,LastName,Phone,District,DepartmentId)values ()
 sp_help Salary
 
 INSERT INTO Salary (EID, Month, BasicAmount, DAAmount, HRAAmount, PFAmount,		ECSDect,        Bonus)
@@ -138,3 +139,5 @@ select Employee.FirstName, Employee.LastName, Salary.Gross
 from Employee
 Join Salary on Employee.EmployeeId = Salary.EID
 Order by Salary.Gross DESC
+
+(SELECT EmployeeId from Employee where FirstName = 'Poojan' and LastName = 'Soni')

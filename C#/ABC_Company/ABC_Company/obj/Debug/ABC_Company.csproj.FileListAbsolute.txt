@@ -1,0 +1,10 @@
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\bin\Debug\ABC_Company.exe.config
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\bin\Debug\ABC_Company.exe
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\bin\Debug\ABC_Company.pdb
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\obj\Debug\ABC_Company.csprojAssemblyReference.cache
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\obj\Debug\ABC_Company.Form1.resources
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\obj\Debug\ABC_Company.Properties.Resources.resources
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\obj\Debug\ABC_Company.csproj.GenerateResource.cache
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\obj\Debug\ABC_Company.csproj.CoreCompileInputs.cache
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\obj\Debug\ABC_Company.exe
+C:\Users\pooja\OneDrive\Documents\Codes\C#\ABC_Company\ABC_Company\obj\Debug\ABC_Company.pdb

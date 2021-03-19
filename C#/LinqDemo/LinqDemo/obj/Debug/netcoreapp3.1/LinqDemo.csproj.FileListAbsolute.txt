@@ -1,0 +1,13 @@
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.exe
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.deps.json
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.json
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.runtimeconfig.dev.json
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\bin\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csprojAssemblyReference.cache
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.AssemblyInfo.cs
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.dll
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.pdb
+C:\Users\pooja\OneDrive\Documents\Codes\C#\LinqDemo\LinqDemo\obj\Debug\netcoreapp3.1\LinqDemo.genruntimeconfig.cache
