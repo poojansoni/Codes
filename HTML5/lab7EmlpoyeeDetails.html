@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+            background-color: lightblue;
+            
+        }
+        table tr td:first-of-type{
+            text-align: center;
+        }
+</style>
+</head>
+
+<body>
+    <form  method="POST">
+        <table border="1" >
+        <tr>
+            <td><b>Name</td>
+            <td><input type="text" name="name" id="name" ></td>
+        </tr>
+        <tr>
+            <td><b>Employee Code</td>
+            <td><input type= "text"name="EmployeeCode" size="20"  tabindex="3"> </td>
+        </tr>
+        <tr>
+            <td ><b>Department</td>
+
+            <td> 
+                <input type="radio" name="role" value="Admin" />Admin <br>
+                    <input type="radio" name="role" value="HR" />HR <br>
+                    <input type="radio" name="role" value="Technical" />Technical <br>
+                    <input type="radio" name="role" value="Accounts" />Accounts <br>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Date of Joining</td>
+            <td><input type="date" name = "Date"></td>
+        </tr>
+        <tr>
+            <td ><b>Address</td>
+                <td>
+                    <textarea name="address" id="" cols="30" rows="10"></textarea>
+                </td>
+        </tr>
+        <tr>
+            <td ><b>Training Program attended</td>
+            <td>  <input type="checkbox" name="tech" value="dotnet" />Dot Net<br>
+                <input type="checkbox" name="tech" value="sales" />SalesForces<br>
+                <input type="checkbox" name="tech" value="react" />Raect<br>
+                <input type="checkbox" name="tech" value="java" />Java
+            </td>
+        </tr>
+        <tr>
+            <td ><b>Training program needed to attend</td>
+            <td><select name="select" id=>
+                <option value="javas">Javascript</option>
+                <option value="c++">C++</option>
+                <option value="node">Node.js</option>
+
+            </select>
+            </td>
+        </tr>
+        <tr>
+            <td><b>Send the Information at</td>
+                <td>
+                    <a  href="mailto:empinfo@capgemini.com" >empinfo@capgemini.com</a>
+                </td>
+        </tr>
+    </table>
+    </form>
+    </body>
+    </html>

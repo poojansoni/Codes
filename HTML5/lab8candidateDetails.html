@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        table {
+            background-color: lightblue;
+            
+        }
+        table tr td:first-of-type{
+            text-align: center;
+        }
+</style>
+</head>
+
+<body>
+    <form  method="POST">
+        <table border="1" >
+            <caption style="caption-side:bottom; color: red;">All fields marked (*) are mandatory</caption>
+        <tr>
+            <td>Name :  <sup style="color:red;">*
+            </td>
+            <td><input type="text" name="name" id="name" maxlength="15" required></td>
+        </tr>
+        <tr>
+            <td>Password : <sup style="color:red;">*</td>
+            <td><input type= "password"name="EmployeeCode" required> </td>
+        </tr>
+        <tr>
+            <td>Phone number : <sup style="color:red;">*</td>
+            <td><input type= "number"name="EmployeeCode"  required>   </td>
+        </tr>
+        <tr>
+            <td >Gender : <sup style="color:red;">*</td>
+
+            <td> 
+                <input type="radio" name="gender" value="Male" required/>Male 
+                    <input type="radio" name="gender" value="Female" required/>Female 
+            </td>
+        </tr>
+        <tr>
+            <td>Date of Birth : <sup style="color:red;">*</td>
+            <td><input type="date" name = "DOB" required></td>
+        </tr>
+        <tr>
+            <td >Email : <sup style="color:red;">*</td>
+                <td>
+                    <textarea type = "email"name="EmailID" rows="1" required></textarea>
+                </td>
+        </tr>
+        <tr>
+            <td >Highest Qualification : <sup style="color:red;">*</td>
+            <td><select name="select" required id=>
+                <option value="none">Select Qualification</option>
+                <option value="B.Tech">B.Tech</option>
+                <option value="M.Tech">M.Tech</option>
+
+            </select>
+            </td>
+        </tr>
+        <tr>
+            <td >Courses Interested in : <sup style="color:red;">*</td>
+            <td>  <input type="checkbox" name="tech" value="JAVA" required/>JAVA
+                <input type="checkbox" name="tech" value="HTML 5"required />HTML 5
+                <input type="checkbox" name="tech" value="CSS 3" required/>CSS 3
+                <input type="checkbox" name="tech" value="Angular JS" required/>Angular JS
+                <input type="checkbox" name="tech" value="JQuery" required/>JQuery
+            </td>
+        </tr>
+        <tr>
+            <td >Comments: (Mention External Certifications if any)</td>
+                <td>
+                    <textarea name="comments" rows="3" cols = "51"></textarea>
+                </td>
+        </tr>
+        <tr>
+            <td >Upload Degree/ External Certificates : <sup style="color:red;">*</td>
+                <td>
+                    <input type="file" name="file" required></input>
+                </td>
+        </tr>
+        <tr>
+            <td ></td>
+                <td>
+                    <button type="button" name="submit" value="Submit Information" >Submit Information</button>
+                    <button type="button" name="clear" value="Clear">Clear</button>
+                </td>
+        </tr>
+    </table>
+    </form>
+    </body>
+    </html>
